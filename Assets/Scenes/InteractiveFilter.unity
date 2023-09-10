@@ -830,7 +830,8 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"material2","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Material,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"material3","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Material,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"currentGlassesTag","value":null,"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentMaterial","value":{"$content":9,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 987503036}
     - {fileID: 1321047559}
@@ -841,6 +842,7 @@ MonoBehaviour:
     - {fileID: 2100000, guid: 4851db8b074464f4fa3b97281de03d9c, type: 2}
     - {fileID: 2100000, guid: abe76821e62283c48b310beaaac7530d, type: 2}
     - {fileID: 2100000, guid: ded40d9f0a3d6a640b20817da4867042, type: 2}
+    - {fileID: 5561349426305759274, guid: 0a840f06779b2ea45a882b3c57b12fb7, type: 3}
 --- !u!114 &649790795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1185,7 +1187,7 @@ PrefabInstance:
     - target: {fileID: 5213826825862894765, guid: 0ef6f061fa54f9c4e9c32159635466e3,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ef6f061fa54f9c4e9c32159635466e3, type: 3}
