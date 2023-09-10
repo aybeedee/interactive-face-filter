@@ -1011,16 +1011,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4943353761232058231, guid: 0ef6f061fa54f9c4e9c32159635466e3,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4943353761650224667, guid: 0ef6f061fa54f9c4e9c32159635466e3,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5213826825862894764, guid: 0ef6f061fa54f9c4e9c32159635466e3,
         type: 3}
       propertyPath: m_RootOrder
@@ -1080,11 +1070,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GlassesGroup
-      objectReference: {fileID: 0}
-    - target: {fileID: 5213826825862894765, guid: 0ef6f061fa54f9c4e9c32159635466e3,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ef6f061fa54f9c4e9c32159635466e3, type: 3}
